@@ -14,8 +14,10 @@ Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packag
 
 ```bash
 npx create-next-app --example hello-world hello-world-app
-```
 
+$ npm install @ampproject/toolbox-cache-url
+
+```
 ```bash
 yarn create next-app --example hello-world hello-world-app
 ```
